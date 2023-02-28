@@ -3,9 +3,11 @@
 ## About this project 
 - Building a tool to display events for both hackers and the general public
 - Attendees would have to log in to access the full list of events as hackers
+- Hack the North Frontend Developer Technical Challenge 
 
 ## Tools/Resources used
 - Tutorial Referenced: https://www.youtube.com/watch?v=8KB3DHI-QbM
+- https://hackthenorth.notion.site/hackthenorth/Hack-the-North-2023-Frontend-Developer-Challenge-bcbe4a5a275f4620bd9339072e5698b4
 
 ## Getting Started with Create React App
 
