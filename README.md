@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# HTNFrontendChallenge
+
+## About this project 
+- Building a tool to display events for both hackers and the general public
+- Attendees would have to log in to access the full list of events as hackers
+
+## Tools/Resources used
+- Tutorial Referenced: https://www.youtube.com/watch?v=8KB3DHI-QbM
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
